@@ -1,0 +1,11 @@
+City,Country,Role,Level,Salary,Median Rent in center,Median rent outside center,Disposable Income,Meals out,3 Course Meals,Time to Down Payment in Center,Time to Down Payment outside Center
+"New York, NY",United States,Consultant,Manager,"$205,000.00","$3,725.00","$2,529.00","$88,141.50",293.81,58.76,6.45,4.51
+London,England,Consultant,Manager,"$110,000.00","$2,750.00","$1,916.00","$35,640.00",118.80,28.29,13.90,8.80
+Los Angeles,United States,Consultant,Manager,"$205,000.00","$2,676.25","$2,120.00","$101,418.68",338.06,67.61,4.50,3.32
+Paris,France,Consultant,Manager,"$90,200.00","$1,396.00","$1,062.00","$40,082.56",208.76,45.14,11.56,9.31
+Barcelona,Spain,Consultant,Manager,"$75,900.00","$1,230.00",$940.00,"$33,028.80",172.03,47.46,7.30,5.14
+Chicago,United States,Consultant,Manager,"$205,000.00","$2,000.00","$1,483.00","$109,980.00",458.25,114.56,1.98,1.43
+Amsterdam,Netherlands,Consultant,Manager,"$88,000.00","$1,710.00","$1,376.00","$34,705.60",192.81,43.17,8.43,6.34
+Zurich,Switzerland,Consultant,Manager,"$192,000.00",2748,1940,"$120,180.00",333.83,62.20,8.50,5.90
+Mumbai,India,Consultant,Manager,"$40,150.00",572,334,"$23,644.43",394.07,98.52,9.79,5.67
+Mexico City,Mexico,Consultant,Manager,"$64,741.95",892,527,"$38,185.90",397.77,61.20,4.06,2.97
